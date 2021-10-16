@@ -1,0 +1,33 @@
+h1{
+    background-color:red;
+    margin:0px;
+    margin-right:0px;
+    margin-left:0px;
+    height:150px;
+    color:white;
+    text-align:center;
+    line-height: 130px;
+    font-size: 40px;
+    
+
+
+}
+.box1{
+    margin-left:200px;
+    position:absolute;
+    
+    
+}
+th,tr{
+    border:1px solid black;
+}
+.box2{
+    margin-left:900px;
+    position:absolute;
+}   
+.list{
+    font-size: 20px;
+
+}
+
+
